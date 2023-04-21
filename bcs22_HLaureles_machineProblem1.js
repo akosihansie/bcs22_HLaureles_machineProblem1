@@ -10,7 +10,7 @@
 const students = [];
 const grades = [];
 
-for (let i = 0; i < 2; i++) {
+for (let i = 0; i < 5; i++) {
   let studentName = prompt("Enter the name of the student:");
   students.push(studentName);
 
